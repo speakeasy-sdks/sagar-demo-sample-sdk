@@ -3,17 +3,17 @@ id: 6b3c25f4-9664-4618-a0e4-4fa089f07894
 management:
   docChecksum: 8db86c8597b22945c2b3f77241037075
   docVersion: 1.0.0
-  speakeasyVersion: 1.221.0
-  generationVersion: 2.287.0
-  releaseVersion: 2.0.0
-  configChecksum: 1038e577bb7993322a68dff552e5eb3e
+  speakeasyVersion: 1.227.0
+  generationVersion: 2.291.0
+  releaseVersion: 2.0.1
+  configChecksum: 63f0086ff62bd1cacab2aa41265fb0d2
   repoURL: https://github.com/speakeasy-sdks/sagar-demo-sample-sdk.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/sagar-demo-sample-sdk.git
 features:
   python:
     callbacks: 1.0.0
-    core: 4.5.1
+    core: 4.5.2
     errors: 2.81.8
     examples: 2.81.3
     flattening: 2.81.1
